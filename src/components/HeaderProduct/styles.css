@@ -1,0 +1,11 @@
+.header-prod {
+  height: 60px;
+  background-color: var(--color-bg-tertiary);
+  color: var(--color-font-primary);
+  display: flex;
+  align-items: center;
+}
+
+.nav-product-item {
+  margin-left: 20px;
+}
